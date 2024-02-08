@@ -1,2 +1,4 @@
-# Kubejs CopyPaste
- (Minecraft) Copy Paste method using only Kubejs
+# Kubejs CopyPaste Tool
+(Minecraft) Copy Paste method using only Kubejs
+
+## How To Use:
