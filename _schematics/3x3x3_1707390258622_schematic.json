@@ -1,0 +1,56 @@
+{
+	"UUID": 1707390258622,
+	"structure": [
+		[
+			[
+				"minecraft:glass",
+				"minecraft:glass",
+				"minecraft:glass"
+			],
+			[
+				"minecraft:glass",
+				"minecraft:glass",
+				"minecraft:glass"
+			],
+			[
+				"minecraft:glass",
+				"minecraft:glass",
+				"minecraft:glass"
+			]
+		],
+		[
+			[
+				"minecraft:glass",
+				"minecraft:white_wool",
+				"minecraft:glass"
+			],
+			[
+				"minecraft:glass",
+				"minecraft:yellow_wool",
+				"minecraft:glass"
+			],
+			[
+				"minecraft:glass",
+				"minecraft:lime_wool",
+				"minecraft:glass"
+			]
+		],
+		[
+			[
+				"minecraft:glass",
+				"minecraft:glass",
+				"minecraft:glass"
+			],
+			[
+				"minecraft:glass",
+				"minecraft:glass",
+				"minecraft:glass"
+			],
+			[
+				"minecraft:glass",
+				"minecraft:glass",
+				"minecraft:glass"
+			]
+		]
+	]
+}
