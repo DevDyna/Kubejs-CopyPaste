@@ -3,7 +3,7 @@
     "description": "[CREATIVE ONLY] Copy Paste Tool using Kubejs | Repo: [https://github.com/DevDyna/Kubejs-CopyPaste]",
     
     "versions": [10],
-    "modloaders": ['forge'],
-    "dependencies": ['mod:kubejs'],
+    "modloaders": ["forge"],
+    "dependencies": ["mod:kubejs"],
     "incompatibilities": []
 }
