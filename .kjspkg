@@ -1,6 +1,6 @@
 {
     "author": "DevDyna",
-    "description": "[CREATIVE ONLY] Copy Paste Tool using Kubejs | Repo: [https://github.com/DevDyna/Kubejs-CopyPaste]",
+    "description": "[CREATIVE ONLY] Copy Paste Tool using Kubejs ",
     
     "versions": [10],
     "modloaders": ["forge"],
